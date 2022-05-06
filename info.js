@@ -9,8 +9,9 @@ let info = {
       blur: false
     }
   },
+
   description:
-    "I'm a Front-end  Web Developer with a passion for building projects that are used routinely. Building applications in JavaScript. Former supervisor and finance professional who's eager to enhance a company's user experience. ",
+    "I'm a fullstack Developer with a passion for building projects that are used routinely. Building applications in JavaScript. Former supervisor and finance professional who's eager to enhance a company's user experience. ",
   links: {
     linkedin: "https://www.linkedin.com/in/ching-hor-bb7bb415b",
     github: "https://github.com/lengchhinghor",
